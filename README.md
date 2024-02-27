@@ -1,8 +1,10 @@
 # Project Name
 Nike Landing Page
 
+
 ## Introduction
 It is a clone of the landing page of the Nike's Official Website. 
+
 
 ## Tech Stack
 - HTML
@@ -12,6 +14,7 @@ It is a clone of the landing page of the Nike's Official Website.
 - TailwindCSS
 - Vite
 
+
 ## Features
 - The Nike clone website boasts a comprehensive array of features designed to deliver a seamless and immersive user experience.
 - The captivating Home section showcasing the latest products and promotions.
@@ -19,14 +22,6 @@ It is a clone of the landing page of the Nike's Official Website.
 - The Product section offers a diverse range of Nike products across various categories, complemented by intuitive navigation and filtering options for easy browsing.
 - Authentic user feedback and testimonials in the Customer Review section build trust and credibility, while the Contact Us section provides convenient communication channels for users to reach out for support or inquiries. 
 
-## Running the Project
-To run this project locally, follow these steps:
-
-To run this project, you will need to add environment variables.
-
-```bash
-npm run dev
-```
 
 ## Video
 
