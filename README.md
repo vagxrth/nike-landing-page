@@ -7,9 +7,6 @@ It is a clone of the landing page of the Nike's Official Website.
 
 
 ## Tech Stack
-- HTML
-- CSS
-- JavaScript
 - React
 - TailwindCSS
 - Vite
